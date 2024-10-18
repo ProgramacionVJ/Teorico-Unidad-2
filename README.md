@@ -3,7 +3,7 @@
     <img src="https://img.freepik.com/fotos-premium/persona-sosteniendo-controlador-juego-controlado-juego-fondo_1301236-57491.jpg" alt="Logo" width=1200 height=500>
 
   <p align="center">
-    Una luzha de un sobreviviente que puede obtener poderes el cual luchara contra los Zs
+    Una lucha de un sobreviviente que puede obtener poderes el cual luchara contra los Zs
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
