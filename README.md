@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg](https://cdn.alfabetajuega.com/alfabetajuega/2019/05/PS4-adiccion.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Fimagen-ia-premium%2Fpersona-sosteniendo-controlador-juego-controlado-juego-fondo_333847762.htm&psig=AOvVaw1tUnpEOQjJ7ZrXj2i0GXQe&ust=1729299289124000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICi3MvclokDFQAAAAAdAAAAABAE" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
