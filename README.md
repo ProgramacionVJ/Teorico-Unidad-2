@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://img.freepik.com/fotos-premium/persona-sosteniendo-controlador-juego-controlado-juego-fondo_1301236-57491.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://img.freepik.com/fotos-premium/persona-sosteniendo-controlador-juego-controlado-juego-fondo_1301236-57491.jpg" alt="Logo" width=1200 height=500>
 
   <p align="center">
     Short description
