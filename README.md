@@ -3,7 +3,7 @@
     <img src="https://img.freepik.com/fotos-premium/persona-sosteniendo-controlador-juego-controlado-juego-fondo_1301236-57491.jpg" alt="Logo" width=1200 height=500>
 
   <p align="center">
-    Short description
+    Una luzha de un sobreviviente que puede obtener poderes el cual luchara contra los Zs
     <br>
     <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
     ·
@@ -98,8 +98,7 @@
 ![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
-Bill Gates & Steve Jobs
-
+Jesús Andrés González Manzanales
 ## Copyright
-Derechos Reservados 2022
+Derechos Reservados 2024
 
