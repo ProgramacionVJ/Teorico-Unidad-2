@@ -66,29 +66,24 @@
 
 ## Código Fuente
 
-* Lección 1
+* Challenge 1
   * > Tutorial
-  * > Laboratorio
+  * <a href="https://drive.google.com/drive/folders/1kTmm2wWKETBO4kEuS5BdSHTO-lr3gzvE?usp=sharing"> Laboratorio </a>
   * > Desafío
   * > Prueba
-* Lección 2
+* Prototipo 1
   * > Tutorial
-  * > Laboratorio
+  * <a href="https://drive.google.com/drive/folders/1kTmm2wWKETBO4kEuS5BdSHTO-lr3gzvE?usp=sharing"> Laboratorio </a>
   * > Desafío
   * > Prueba
-* Lección 3
+* Prototipo 2
   * > Tutorial
-  * > Laboratorio
+  * <a href="https://drive.google.com/drive/folders/1kTmm2wWKETBO4kEuS5BdSHTO-lr3gzvE?usp=sharing"> Laboratorio </a>
   * > Desafío
   * > Prueba
-* Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* Lección 5
-  * > Tutorial
-  * > Laboratorio
+* Prototipo 3
+  * <a href="https://drive.google.com/drive/folders/1ydCeMvtaWvbhO5oPTDYGxgLE35KmBGDi?usp=sharing"> Tutorial</a>
+  * <a href="https://drive.google.com/drive/folders/1ydCeMvtaWvbhO5oPTDYGxgLE35KmBGDi?usp=sharing"> Laboratorio </a>
   * > Desafío
   * > Prueba
 * VideoJuego
