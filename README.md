@@ -68,23 +68,23 @@
 
 * Challenge 1
   * > Tutorial
-  * <a href="https://drive.google.com/drive/folders/1kTmm2wWKETBO4kEuS5BdSHTO-lr3gzvE?usp=sharing"> Laboratorio </a>
-  * > Desafío
+  * > Laboratorio
+  * <a href="https://drive.google.com/drive/folders/1kTmm2wWKETBO4kEuS5BdSHTO-lr3gzvE?usp=sharing"> Desafío </a>
   * > Prueba
 * Prototipo 1
   * > Tutorial
-  * <a href="https://drive.google.com/drive/folders/1kTmm2wWKETBO4kEuS5BdSHTO-lr3gzvE?usp=sharing"> Laboratorio </a>
-  * > Desafío
+  * > Laboratorio
+  * <a href="https://drive.google.com/drive/folders/1kTmm2wWKETBO4kEuS5BdSHTO-lr3gzvE?usp=sharing"> Desafío </a>
   * > Prueba
 * Prototipo 2
-  * > Tutorial
-  * <a href="https://drive.google.com/drive/folders/1kTmm2wWKETBO4kEuS5BdSHTO-lr3gzvE?usp=sharing"> Laboratorio </a>
-  * > Desafío
+   * > Tutorial
+  * > Laboratorio
+  * <a href="https://drive.google.com/drive/folders/1kTmm2wWKETBO4kEuS5BdSHTO-lr3gzvE?usp=sharing"> Desafío </a>
   * > Prueba
 * Prototipo 3
   * <a href="https://drive.google.com/drive/folders/1ydCeMvtaWvbhO5oPTDYGxgLE35KmBGDi?usp=sharing"> Tutorial</a>
-  * <a href="https://drive.google.com/drive/folders/1ydCeMvtaWvbhO5oPTDYGxgLE35KmBGDi?usp=sharing"> Laboratorio </a>
-  * > Desafío
+  * > Laboratorio
+  * <a href="https://drive.google.com/drive/folders/1ydCeMvtaWvbhO5oPTDYGxgLE35KmBGDi?usp=sharing"> Desafío </a>
   * > Prueba
 * VideoJuego
 
