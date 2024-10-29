@@ -69,12 +69,17 @@
 * Challenge 1
   * > Tutorial
   * > Laboratorio
-  * <a href="https://drive.google.com/drive/folders/1kTmm2wWKETBO4kEuS5BdSHTO-lr3gzvE?usp=sharing"> Desafío </a>
+  * <a href="https://drive.google.com/drive/folders/1tAYu3H5aRYZpwh1hG5ioYaeU2hxcmnep?usp=sharing"> Desafío </a>
+  * > Prueba
+* Challenge 2
+  * > Tutorial
+  * > Laboratorio
+  * <a href="https://drive.google.com/drive/folders/1AmD7ZF1AHmPe8fxybjIfnwmZG4hxig-8?usp=sharing"> Desafío </a>
   * > Prueba
 * Prototipo 1
   * > Tutorial
   * > Laboratorio
-  * <a href="https://drive.google.com/drive/folders/1kTmm2wWKETBO4kEuS5BdSHTO-lr3gzvE?usp=sharing"> Desafío </a>
+  * <a href="https://drive.google.com/drive/folders/12hvVXik9ypwuzWivuSLjjQ38wl1qnpRK?usp=sharing"> Desafío </a>
   * > Prueba
 * Prototipo 2
    * > Tutorial
