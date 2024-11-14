@@ -77,9 +77,9 @@
   * <a href="https://drive.google.com/drive/folders/1AmD7ZF1AHmPe8fxybjIfnwmZG4hxig-8?usp=sharing"> Desafío </a>
   * > Prueba
 * Challenge 3
-  * <a href=""> Tutorial</a>
+  * <a href="https://docs.google.com/document/d/1Q0iLOBY1QrvJoG3JW6VkBv7oel_dQ6gl/edit?usp=sharing&ouid=115017330452147884930&rtpof=true&sd=true"> Tutorial</a>
   * > Laboratorio
-  * <a href=""> Desafío </a>
+  * <a href="https://drive.google.com/drive/folders/11TMROg9mSoqAriOlxNNLpKWWBqqsMUF4?usp=sharing"> Desafío </a>
   * > Prueba
 * Challenge 4
   * <a href="https://docs.google.com/document/d/1G8yTP6iOzPnoXr17Fgbsz00FLiBejtax/edit?usp=sharing&ouid=115017330452147884930&rtpof=true&sd=true"> Tutorial</a>
