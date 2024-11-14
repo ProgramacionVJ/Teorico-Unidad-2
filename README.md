@@ -87,7 +87,7 @@
   * <a href="https://drive.google.com/drive/folders/13NtzyuChomdxkNFn5CDKEw30Zw-oHO_Z?usp=sharing"> Desafío </a>
   * > Prueba
 * Challenge 5
-  * <a href="https://drive.google.com/drive/folders/1iLOO9T_FYLSRmkg3T7YUDnoEZFDLUG-C?usp=sharing"> Tutorial</a>
+  * <a href="https://docs.google.com/document/d/1G-regR7SgP3Y9iwCuJpXJCNHkVc8aCBN/edit?usp=sharing&ouid=115017330452147884930&rtpof=true&sd=true"> Tutorial</a>
   * > Laboratorio
   * <a href="https://drive.google.com/drive/folders/1AmD7ZF1AHmPe8fxybjIfnwmZG4hxig-8?usp=sharing"> Desafío </a>
   * > Prueba
