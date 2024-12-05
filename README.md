@@ -92,6 +92,8 @@
   * <a href="https://drive.google.com/drive/folders/1AmD7ZF1AHmPe8fxybjIfnwmZG4hxig-8?usp=sharing"> Desafío </a>
   * <a href="https://docs.google.com/document/d/1G-regR7SgP3Y9iwCuJpXJCNHkVc8aCBN/edit?usp=sharing&ouid=115017330452147884930&rtpof=true&sd=true"> Prueba</a>
 * VideoJuego
+  * <a href="https://drive.google.com/drive/folders/1zRXLodpmLWFP2lZMBxxGQedAt1lxedGz?usp=sharing"> APK </a>
+  * <a href="https://drive.google.com/drive/folders/17KSgR_Q-ZmeUQxnFPvjfcbsTNZgoflw5?usp=sharing"> Web </a>
 
 ## Planificación
 
